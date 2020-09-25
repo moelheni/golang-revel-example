@@ -11,6 +11,11 @@ A high-productivity web framework for the [Go language](http://www.golang.org/).
 
     "It works"
 
+
+## Routes
+
+look at `conf/routes`
+
 ## Code Layout
 
 The directory structure of a generated Revel application:
